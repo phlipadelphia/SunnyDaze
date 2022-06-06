@@ -10,13 +10,13 @@ html, body{
     width:25%; 
     float:left; 
     position:relative; 
-    background-color:#FFFFFF; 
+    background-color:#ffffff; 
 
 
     }
     
    #maincol{
-    background-color: #FFFFFF;  
+    background-color: #52c0f7;  
     position: relative; 
     width:75%;
     float:right; 
@@ -45,15 +45,17 @@ html, body{
 
 #fivedayforecast{
 display: block;
+text-align: center;
 }
 
 #fivecardone , #fivecardtwo , #fivecardthree, #fivecardfour , #fivecardfive{
     display: block;
-    background-color: darkgray;
+    background-color: skyblue;
      margin: 25px;
      font-family: 'Waiting for the Sunrise';
      font-weight: bold;
      color: teal;
+     text-align: center;
 }
 
 #recentdiv{
