@@ -3,9 +3,9 @@ Weather Dashboard
 
 Welcome to my Weather Dashboard. 
 
-Access it here:
+Access it here: 
 
-Checkout the repository here:
+Checkout the repository here: https://github.com/phlipadelphia/SunnyDaze
 
 ![image](https://user-images.githubusercontent.com/101087005/172262552-772f65b2-4b1e-458d-858c-b429729b5640.png)
 
